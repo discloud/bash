@@ -17,7 +17,12 @@ chcp 65001 > C:\Discloud\log
 
 SET Foo=%1
 SET uf=%2
+chcp 65001 > C:\Discloud\log
 :::::::::::::::::::::::::::::::::::::::::
+if not exist "discloud.txt" (
+echo [31m O arquivo de configuração discloud.txt não foi encontrado[0m
+exit
+) 
 setlocal EnableDelayedExpansion
 < %cd%\discloud.txt (
   SET /p token=
@@ -32,13 +37,9 @@ if "%url%" == "" (
 echo [31m ID do seu bot não definido no arquivo discloud.txt[0m
 goto :eof
 )
-:echo !token! !url!
+echo !token! !url!
 :::::::::::::::::::::::::::::::::::
 if "%Foo%"=="commit" (
-if not exist "discloud.txt" (
-echo [31m O arquivo de configuração discloud.txt não foi encontrado[0m
-goto :eof
-) 
 :
 IF exist app.zip (del app.zip)
 IF "%uf%" == "" (
