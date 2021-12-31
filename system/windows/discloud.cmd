@@ -37,7 +37,6 @@ if "%url%" == "" (
 echo [31m ID do seu bot não definido no arquivo discloud.txt[0m
 goto :eof
 )
-echo !token! !url!
 :::::::::::::::::::::::::::::::::::
 if "%Foo%"=="commit" (
 :
