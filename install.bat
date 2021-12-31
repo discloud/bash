@@ -8,5 +8,5 @@ for /f "usebackq delims=" %%a in (`powershell.exe -Command "(new-object net.webc
 (echo %variable%)>C:\Discloud\discloud.bat
 
 :setx /M PATH "%PATH%;C:\Discloud"
-echo [32m Install finalizado, abra um nomo terminal e digite discloud[0m
+echo [32m Install finalizado, abra um novo terminal e digite discloud[0m
 exit
