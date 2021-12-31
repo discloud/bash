@@ -5,7 +5,7 @@
  _
 ## 📋 Pré-requisitos do Sistema Operacional
  
-Se você estiver no `Windows 10, versão 1803 ou posterior`, seu sistema operacional já é completamente compatível com a Discloud Bash
+Se você estiver usando o  PowerShell` no `Windows 10, versão 1803 ou posterior`, seu sistema operacional já é completamente compatível com a Discloud Bash
  
 ## 🚀 Começando
 Para realizar a instalação no Windows baixe o programa `install.bat` e execute na sua maquina.
