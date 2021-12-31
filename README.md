@@ -1,10 +1,8 @@
 # Discloud Bash
- Interface básica de linha de comando da Discloud.app para Windows
+ Interface básica de linha de comando para Windows. **Podendo assim utilizar o terminal do  `Visual Studio Code` para atualizar o seu bot na Discloud**
  
  
- 
- 
- 
+ _
 ## 📋 Pré-requisitos do Sistema Operacional
  
 Se você estiver no `Windows 10, versão 1803 ou posterior`, seu sistema operacional já é completamente compatível com a Discloud Bash
