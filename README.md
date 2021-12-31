@@ -45,7 +45,7 @@ No momento só temos o comando `commit` disponível em nossa aplicação.
  
 - Estrutura do comando:
  
-> Aqui os <argumentos> são opcionais, já os [comandos] são obrigatórios.
+> Aqui os `<argumentos>` são opcionais, já os `[comandos]` são obrigatórios.
  
 ```
 discloud [comando] <argumento>
