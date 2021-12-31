@@ -9,10 +9,7 @@ Se você estiver no `Windows 10, versão 1803 ou posterior`, seu sistema operaci
  
 ## 🚀 Começando
 Para realizar a instalação no Windows baixe o programa `install.bat` e execute na sua maquina.
-Após o processo ser finalizado a interface de linha de comando da DisCloud já está disponível em seu terminal.
- 
-Você podera ter acesso a ela digitando apenas o comando `discloud`
- 
+Após o processo acesso a pasta `C:\Discloud`, crie um arquivo chamdo `discloud.bat` e coloque este [código aqui](https://raw.githubusercontent.com/discloud/bash/main/system/windows/discloud.bat) dentro
  
  
 ## 📦 Requisitos
