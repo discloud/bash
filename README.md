@@ -13,6 +13,8 @@ Se você estiver usando o  `PowerShell` no `Windows 10, versão 1803 ou posterio
 Para que a Discloud Bash funcione você precisa criar um arquivo chamado `discloud.txt` no diretorio da sua aplicaçao, onde adicionará o  token de acesso a api da discloud  e o    `ID do seu bot`.
 > É importante que respeite o padrão em que os dados são colocado do arquivo txt
 
+Lembrando que esse token é da `API da Discloud` e não da sua aplicação Discord
+-- 
 ![image](https://user-images.githubusercontent.com/36576303/147795407-e3464469-33c8-4c26-b0cf-a029dba24491.png)
 ![image](https://user-images.githubusercontent.com/36576303/147795563-6043ccc1-a8bf-4eb2-a8f7-ee13daeec4f0.png)
  ---
