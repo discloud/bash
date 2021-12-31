@@ -54,7 +54,7 @@ goto :eof
 )
 IF exist %uf%/ (
 del %cd%\discloud.txt
-powershell.exe Compress-Archive -Path '%cd%\%uf%' -DestinationPath "app1.zip"
+powershell.exe Compress-Archive -Path '%cd%\%uf%' -DestinationPath "app.zip"
 (
 echo !token!
 echo !url!
