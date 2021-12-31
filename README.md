@@ -50,7 +50,7 @@ No momento só temos o comando `commit` disponível em nossa aplicação.
 ```
 discloud [comando] <argumento>
 ```
-> No caso do commit os <argumentos> seriam o nome da pasta ou arquivo, porém você pode deixar vazio para o commit enviar os arquivo da raiz onde o comando é executado
+> No caso do commit os `<argumentos>` seriam o nome da pasta ou arquivo, porém você pode deixar vazio para o commit enviar os arquivo da raiz onde o comando é executado
  
  
 ## ⚙️ Exemplos de uso
