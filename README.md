@@ -18,7 +18,7 @@ Para que a Discloud Bash funcione você precisa criar um arquivo chamado `disclo
  ---
 ## 🚀 Começando
 
-Existem 2 formas de urilizar esse script 
+Existem 2 formas de urilizar a Discloud Bash 
 
 #### Primeira
 A maneira mais rápida de poder utilizar a DisCloud Bash é abrindo o seu [VScode](https://code.visualstudio.com) na pasta do seu bot dentro do diretório dentro do diretório crie um arquivo chamado `commit.bat` e em seguida cole dentro dele o esse [conteúdo aqui](https://raw.githubusercontent.com/discloud/bash/main/system/windows/discloud.ba) e salve.
