@@ -1,18 +1,4 @@
 @echo off
-:----------------------------------------------------------------------:
-:
-:
-:
-:______ _     _____ _                 _ 
-:|  _  (_)   /  __ \ |               | |
-:| | | |_ ___| /  \/ | ___  _   _  __| |
-:| | | | / __| |   | |/ _ \| | | |/ _` |
-:| |/ /| \__ \ \__/\ | (_) | |_| | (_| |
-:|___/ |_|___/\____/_|\___/ \__,_|\__,_|
-:                         script by PR                                    
-:
-:                                      
-:---------------------------------------------------------------------=-:
 if not exist "discloud.txt" (
 echo O arquivo de configuraçao discloud.txt nao foi encontrado
 goto :eof
@@ -31,7 +17,6 @@ IF "%url%" == "" (
 echo ID do seu bot nao difinido no arquivo discloud.txt
 goto :eof
 )
-:
 :
 IF exist app.zip (del app.zip)
 IF "%~1" == "" (
