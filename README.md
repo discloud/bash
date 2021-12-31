@@ -1,5 +1,8 @@
 # Discloud Bash
-Interface básica de linha de comando da Discloud.app para Windows
+ Interface básica de linha de comando da Discloud.app para Windows
+ 
+ 
+ 
  
  
 ### 📋 Pré-requisitos do Sistema Operacional
@@ -18,7 +21,11 @@ Você podera ter acesso a ela digitando apenas o comando `discloud`
  
 Para que a Discloud Bash funcione você precisa criar um arquivo chamado `discloud.txt` onde colocara o token de acesso a api da discloud e o ID do seu bot
 > É importante que respeite o padrão em que os dados são colocado do arquivo txt
- 
+> 
+
+![image](https://user-images.githubusercontent.com/36576303/147795407-e3464469-33c8-4c26-b0cf-a029dba24491.png)
+![image](https://user-images.githubusercontent.com/36576303/147795563-6043ccc1-a8bf-4eb2-a8f7-ee13daeec4f0.png)
+
 
  
 ## 🛠️ Comandos
