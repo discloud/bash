@@ -21,7 +21,7 @@ Lembrando que esse token é da `API da Discloud` e não da sua aplicação Disco
 ## 🚀 Começando
 
 Existem 2 formas de utilizar a Discloud Bash 
-
+--
 #### Primeira
 A maneira mais rápida de poder utilizar a DisCloud Bash é abrindo o seu [VScode](https://code.visualstudio.com) na pasta do seu Bot e criando um arquivo chamado `commit.bat`, em seguida cole dentro dele esse [conteúdo aqui](https://raw.githubusercontent.com/discloud/bash/main/system/windows/commit.bat) e salve.
 
