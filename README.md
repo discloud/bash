@@ -1,4 +1,4 @@
-# Discloud Bash
+# Discloud Bash ![](https://cdn.discordapp.com/attachments/919212099912212540/926483349554470962/pragit.svg)
  Interface básica de linha de comando para Windows. **Podendo assim utilizar o terminal do  `Visual Studio Code` para atualizar o seu bot na Discloud**
  
  
