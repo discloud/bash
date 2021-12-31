@@ -9,7 +9,7 @@ Se você estiver no `Windows 10, versão 1803 ou posterior`, seu sistema operaci
  
 ## 🚀 Começando
 Para realizar a instalação no Windows baixe o programa `install.bat` e execute na sua maquina.
-Após o processo acesso a pasta `C:\Discloud`, crie um arquivo chamdo `discloud.bat` e coloque este [código aqui](https://raw.githubusercontent.com/discloud/bash/main/system/windows/discloud.bat) dentro e salve corretamente
+Após o processo acesse a pasta `C:\Discloud`, crie um arquivo chamdo `discloud.bat` e coloque este [código aqui](https://raw.githubusercontent.com/discloud/bash/main/system/windows/discloud.bat) dentro e salve corretamente
  ![image](https://user-images.githubusercontent.com/36576303/147798223-2eb14070-c1b0-4594-b9cc-e2b37caf1e96.png)
 ![image](https://user-images.githubusercontent.com/36576303/147798270-0b341168-c41c-4fdf-9fae-58f0757d0d55.png)
 
