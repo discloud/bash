@@ -70,4 +70,4 @@ discloud commit
 
 
 
-Desenvolvido com ❤️ por [Pedro Ricardo](https://discloud.app) 😊
+Desenvolvido com ❤️ por [Pedro Ricardo](https://youtube.com/pedroricardor) 😊
