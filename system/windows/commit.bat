@@ -2,8 +2,7 @@
 if not exist "discloud.txt" (
 echo O arquivo de configuraçao discloud.txt nao foi encontrado
 goto :eof
-) 
-
+)
 setlocal EnableDelayedExpansion
 < discloud.txt (
   set /p token=
