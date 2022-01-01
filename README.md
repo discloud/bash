@@ -25,7 +25,7 @@ Existem 2 formas de utilizar a Discloud Bash
 #### Primeira
 A maneira mais rápida de poder utilizar a DisCloud Bash é abrindo o seu [VScode](https://code.visualstudio.com) na pasta do seu Bot e criando um arquivo chamado `commit.bat`, em seguida cole dentro dele esse [conteúdo aqui](https://raw.githubusercontent.com/discloud/bash/main/system/windows/commit.bat) e salve.
 
-> Depois de ter feito isso pode executar o comando utilizando  `./commit.bat` ou `./commit.bat nomeDaPasta` no terminal do seu [VScode](https://code.visualstudio.com) que os arquivos serão enviados para o bot que tem os dados no `discloud.txt`
+> Depois de ter feito isso pode executar o comando utilizando  `./commit.bat` ou `./commit.bat nomeDaPasta` no terminal do seu [VScode](https://code.visualstudio.com) que os arquivos serão enviados para o bot que tem os dados no [`discloud.txt`](https://github.com/discloud/bash/blob/main/README.md#-arquivo-de-configura%C3%A7%C3%A3o)
 
 ![script](https://user-images.githubusercontent.com/36576303/147828311-f4a86c11-be56-4f93-af59-a5bb9c863167.gif)
 
