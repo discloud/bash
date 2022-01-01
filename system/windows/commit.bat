@@ -29,7 +29,7 @@ curl -H "api-token:%token%"  -F "file=@app.zip" https://discloud.app/status/bot/
 del app.zip
 goto :eof
 )
-IF exist %1/ (
+IF exist %1 (
 del %cd%\discloud.txt
 powershell.exe Compress-Archive -Path '%cd%\%1' -DestinationPath "app.zip"
 (
