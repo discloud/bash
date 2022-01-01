@@ -29,8 +29,11 @@ A maneira mais rápida de poder utilizar a DisCloud Bash é abrindo o seu [VScod
 
 ![script](https://user-images.githubusercontent.com/36576303/147828311-f4a86c11-be56-4f93-af59-a5bb9c863167.gif)
 
+ 
+## 🛠️ Configurando no Path no Windows
+--
 #### Segunda
-Agora se quiser instalar o Script de forma nativa no seu windows o processo será um pouco diferente:
+Agora se quiser instalar o Script de forma global no seu windows o processo será um pouco diferente:
 Primeiro baixe o programa `install.bat` e execute na sua maquina.
 Após o processo acesse a pasta `C:\Discloud`, crie um arquivo chamdo `discloud.bat` e coloque este [código aqui](https://raw.githubusercontent.com/discloud/bash/main/system/windows/discloud.bat) dentro e salve corretamente.
 
@@ -38,8 +41,6 @@ Após o processo acesse a pasta `C:\Discloud`, crie um arquivo chamdo `discloud.
 ![image](https://user-images.githubusercontent.com/36576303/147798223-2eb14070-c1b0-4594-b9cc-e2b37caf1e96.png)
 ![image](https://user-images.githubusercontent.com/36576303/147798270-0b341168-c41c-4fdf-9fae-58f0757d0d55.png)
 ![image](https://user-images.githubusercontent.com/36576303/147798369-8404cd75-5b9a-4bbe-a2e5-ae55bc81223f.png)
- 
-## 🛠️ Comandos
  
 No momento só temos o comando `commit` disponível em nossa aplicação.
  
