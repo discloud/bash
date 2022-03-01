@@ -1,6 +1,6 @@
 @echo off
 if not exist "discloud.txt" (
-echo O arquivo de configuraçao discloud.txt nao foi encontrado
+echo The discloud.txt configuration file was not found
 goto :eof
 )
 setlocal EnableDelayedExpansion
@@ -9,11 +9,11 @@ setlocal EnableDelayedExpansion
   set /p url=
 )
 IF "%token%" == "" (
-echo O seu token nao foi difinido no arquivo discloud.txt
+echo Your token has not been defined in the discloud.txt file
 goto :eof
 )
 IF "%url%" == "" (
-echo ID do seu bot nao difinido no arquivo discloud.txt
+echo Your bot ID not defined in the discloud.txt file
 goto :eof
 )
 :
@@ -40,6 +40,6 @@ curl -H "api-token:%token%"  -F "file=@app.zip" https://discloud.app/status/bot/
 del app.zip
 goto :eof
 ) ELSE (
-  echo A pasta %1 nao existe
+  echo The folder %1 does not exist
 Goto :eof
 )
