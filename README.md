@@ -1,4 +1,4 @@
-*View in [English](https://github.com/discloud/bash/blob/master/Readme-en.md)* 
+*View in [English](https://github.com/discloud/bash/blob/master/README-EN.md)* 
 
 # Discloud Bash ![](https://cdn.discordapp.com/attachments/919212099912212540/926483349554470962/pragit.svg)
  Interface básica de linha de comando para Windows. **Podendo assim utilizar o terminal do  `Visual Studio Code` para atualizar o seu bot na Discloud**
